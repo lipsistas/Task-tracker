@@ -24,4 +24,4 @@ A lightweight Command Line Interface (CLI) To-Do List application built with Pyt
    ```bash
    git clone git@github.com:lipsistas/Task-tracker.git
    cd Task-tracker
-# Task-tracker
+
